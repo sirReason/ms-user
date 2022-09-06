@@ -1,0 +1,4 @@
+cn/memset/user/autoconfigure/MsUserConfiguration.class
+META-INF/spring-autoconfigure-metadata.properties
+META-INF/spring-configuration-metadata.json
+cn/memset/user/autoconfigure/MsUserAutoConfiguration.class

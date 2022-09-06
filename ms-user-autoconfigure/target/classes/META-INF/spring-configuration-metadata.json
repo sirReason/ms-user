@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "cnmemset.ms-user",
+      "type": "cn.memset.user.autoconfigure.MsUserConfiguration",
+      "sourceType": "cn.memset.user.autoconfigure.MsUserConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cnmemset.ms-user.url",
+      "type": "java.lang.String",
+      "description": "微服务ms-user的url",
+      "sourceType": "cn.memset.user.autoconfigure.MsUserConfiguration",
+      "defaultValue": "127.0.0.1:8080"
+    }
+  ],
+  "hints": []
+}
